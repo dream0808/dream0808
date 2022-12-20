@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dream0808
-- 👀 I’m interested in comupter
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in computer
+- 🌱 I’m currently learning java
+- 💞️ I wish that I can have a better future
+- 📫 You can find me at 929957466h@gmail.com
 
 <!---
 dream0808/dream0808 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
