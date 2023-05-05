@@ -6,4 +6,4 @@
 - 💞️ I wish that I can have a better future
 
 ### Contact me
-✉️ Email: h929957466@outlook.com
+- ✉️ Email: h929957466@outlook.com
