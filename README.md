@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @HuangPengYuan, a student from China
-- 👀 I’m interested in computer
+### Hello, I'm HuangPengYuan 👋
+
+- 👀 I’m interested in computer### Hello, I'm HuangPengYuan 👋
 - 🌱 I’m currently learning java
 - 💞️ I wish that I can have a better future
 
