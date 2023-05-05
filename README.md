@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dream0808
+- 👋 Hi, I’m @HuangPengYuan, a student from China
 - 👀 I’m interested in computer
 - 🌱 I’m currently learning java
 - 💞️ I wish that I can have a better future
